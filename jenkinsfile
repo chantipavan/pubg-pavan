@@ -1,5 +1,5 @@
 
-de {
+node {
    def mvnHome
    stage('Git Clone') { // for display purposes
       // Get some code from a GitHub repository
